@@ -1,0 +1,24 @@
+body {
+    background-color: #FFF4E0;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: #FFBF9B;
+    border-width: 10px;
+    width: 7%;
+  }
+
+  img {
+    height: 170px;
+  }
+
+  H1 {
+    font-family: "Courier New";
+    color: #4D4D4D;
+  }
+
+  H2 {
+    font-family: "Courier New";
+    color: #B46060;
+  }
